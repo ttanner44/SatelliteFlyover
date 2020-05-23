@@ -19,9 +19,8 @@ I want to know if weather conditions are favorable for a veiw.
 
 So that I can satisfy my need for and curiousity about what is orbiting over us.
 
-APIs used: https://www.n2yo.com/api/ (2 of them) https://openweathermap.org/api https://rapidapi.com/uphere.space/api/uphere-space1
-
 ## Application
+
 ![Screen Shot](./Assets/Sattelite.PNG)
 
 ## APIs
