@@ -9,7 +9,8 @@ https://ttanner44.github.io/SatelliteFlyover/
 
 ## Concept
 ```
-As a space or satellite enthusiast, I spend time outdoors looking into the sky and wonder "what was that bright light?"  Or wonder "can I see a satellite tonight?" Or just curioius as to "what's flying above right now?"
+As a space or satellite enthusiast, I spend time outdoors looking into the sky and wonder "what was that bright light?"  
+Or wonder "can I see a satellite tonight?" Or just curioius as to "what's flying above right now?"
 
 I want to determine which satellites are passing by;
 I want to choose my current location or that of another city;
